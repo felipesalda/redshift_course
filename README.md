@@ -1,4 +1,4 @@
-# AWS Redshift para Manejo de Big Dat
+# AWS Redshift para Manejo de Big Data
 
 Escuela: 🐱‍💻Data Science
 \
