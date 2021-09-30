@@ -19,7 +19,7 @@
         
         Otro ejemplo seria en una consulta médica, donde la tabla de hechos es la tabla de consultas.
         
-        ![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a850c2d-bfe8-4b6a-a9e7-b673066c910a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210930%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210930T210547Z&X-Amz-Expires=86400&X-Amz-Signature=e793f67a368e3b816cb3a6d13b478e292a8aa7b36e1bdb7787177b5bcb3d87a8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a850c2d-bfe8-4b6a-a9e7-b673066c910a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210930%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210930T210547Z&X-Amz-Expires=86400&X-Amz-Signature=e793f67a368e3b816cb3a6d13b478e292a8aa7b36e1bdb7787177b5bcb3d87a8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png)
+        ![https://www.notion.so/aprendeconfelipe/AWS-Redshift-para-Manejo-de-Big-Dat-6749bc985f2b4c538185d03311c6ac32#776ada181d4d4ed6a9d5268d9a675c5b](https://www.notion.so/aprendeconfelipe/AWS-Redshift-para-Manejo-de-Big-Dat-6749bc985f2b4c538185d03311c6ac32#776ada181d4d4ed6a9d5268d9a675c5b)
         
         ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11c37fb3-1665-44c0-ac85-8a74fa939808/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11c37fb3-1665-44c0-ac85-8a74fa939808/Untitled.png)
         
