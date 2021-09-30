@@ -2062,4 +2062,3 @@ Fecha de Creación: August 3, 2021 4:00 PM
         ```
         
 
-[Examen Redshift](https://www.notion.so/Examen-Redshift-677fd4bd469f43ae8e8f1ed20ed5a3a3)
